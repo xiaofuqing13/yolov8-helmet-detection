@@ -68,6 +68,14 @@ python train.py
 └── requirements.txt      # 项目依赖
 ```
 
+## 检测效果展示
+
+### 安全帽佩戴检测结果
+
+![检测结果1](images/helmet_detection_result1.jpg)
+
+![检测结果2](images/helmet_detection_result2.jpg)
+
 ## 适用场景
 
 - 建筑施工现场安全监管
