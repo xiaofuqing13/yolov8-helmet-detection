@@ -76,6 +76,10 @@ python train.py
 
 ![检测结果2](images/helmet_detection_result2.jpg)
 
+### 训练指标曲线
+
+![训练结果](images/training_results.png)
+
 ## 适用场景
 
 - 建筑施工现场安全监管
