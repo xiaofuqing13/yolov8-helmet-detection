@@ -1,4 +1,4 @@
-﻿# YOLOv8 安全帽佩戴检测系统
+# YOLOv8 安全帽佩戴检测系统
 
 基于 YOLOv8 的安全帽（头盔）佩戴检测系统，集成 PyQt5 图形化操作界面，支持摄像头实时检测、视频文件分析和图片识别，自动判断工人是否正确佩戴安全帽。
 
@@ -97,6 +97,6 @@ python train.py
 | 图像处理 | OpenCV, Pillow |
 | 数据可视化 | Matplotlib, Seaborn |
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
