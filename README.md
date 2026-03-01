@@ -1,5 +1,8 @@
 # YOLOv8 安全帽佩戴检测系统
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 基于 YOLOv8 的安全帽（头盔）佩戴检测系统，集成 PyQt5 图形化操作界面，支持摄像头实时检测、视频文件分析和图片识别，自动判断工人是否正确佩戴安全帽。
 
 ## 痛点与目的
